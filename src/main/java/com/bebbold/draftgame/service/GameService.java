@@ -7,6 +7,7 @@ import com.bebbold.draftgame.exception.InvalidGameException;
 import com.bebbold.draftgame.model.*;
 import com.bebbold.draftgame.storage.GameStorage;
 import lombok.AllArgsConstructor;
+import org.springframework.stereotype.Service;
 
 import java.util.UUID;
 
